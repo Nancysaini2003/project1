@@ -40,5 +40,5 @@ The dataset contains housing information used for training and testing the model
 ## 👩‍💻 Author
 Nancy Saini
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: https://www.linkedin.com/in/nancy-saini/
 GitHub: https://github.com/Nancysaini2003
